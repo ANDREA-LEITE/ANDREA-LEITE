@@ -1,5 +1,7 @@
-## Hi there 👋
+# 👋 Hello! 
 
+## My name is Andréa Leite!
+## Welcome to my Github profile.
 <!--
 **andrea-leite/andrea-leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
